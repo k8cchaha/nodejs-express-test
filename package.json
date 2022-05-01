@@ -1,0 +1,19 @@
+{
+  "name": "nodejs-express-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/k8cchaha/nodejs-express-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/k8cchaha/nodejs-express-test/issues"
+  },
+  "homepage": "https://github.com/k8cchaha/nodejs-express-test#readme"
+}
