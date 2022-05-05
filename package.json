@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/k8cchaha/nodejs-express-test/issues"
   },
-  "homepage": "https://github.com/k8cchaha/nodejs-express-test#readme"
+  "homepage": "https://github.com/k8cchaha/nodejs-express-test#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
 }
